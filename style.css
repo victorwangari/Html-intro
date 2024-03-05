@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color: crimson;
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    background-color: blue;
+    color: brown;
+
+}
+
+ol li{
+    align-content: center;
+    text-align: center;
+}
+ul{
+    text-align: center;
+    justify-content: center;
+    
+}
